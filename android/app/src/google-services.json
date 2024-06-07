@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "298619501631",
+    "project_id": "notifikasiflutter",
+    "storage_bucket": "notifikasiflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298619501631:android:d9d295ce39199447c80c8a",
+        "android_client_info": {
+          "package_name": "com.example.siapel_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwO6ZGNXrZqCNKWv8KoN4dsoI-DeoFO6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
